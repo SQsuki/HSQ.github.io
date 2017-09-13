@@ -41,7 +41,7 @@
 			</ol>
 	<div class="MoneyShot">
 				<a href = "https://www.bilibili.com/video/av13987759/?from=search&seid=12730409076591634284">
-				<img class="MoneyShotImg" width="100%" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505302194482&di=d05f909e7312695155f97ce48b36a218&imgtype=0&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201609%2F09%2F20160909201833_ZGuKV.jpegg" alt="初音未来" />
+				<img class="MoneyShotImg" width="100%" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505302194482&di=d05f909e7312695155f97ce48b36a218&imgtype=0&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201609%2F09%2F20160909201833_ZGuKV.jpeg" alt="初音未来" />
 				<p class="ImageCaption">初音未来中文新歌《你好》</p>
 				</a>
 			</div>
