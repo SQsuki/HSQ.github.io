@@ -13,7 +13,7 @@
 		<div class="IntroWrapper">
 			<p class="IntroText">初音未来（初音ミク/Hatsune Miku），是2007年8月31日由CRYPTON FUTURE MEDIA以Yamaha的VOCALOID系列语音合成程序为基础开发的音源库，音源数据资料采样于日本声优藤田咲。
 2010年4月30日，发布初音未来6种不同声调的版本“初音未来Append”。2013年8月31日，初音未来英文版本同VOCALOID3一并发行。此外，初音未来还担任日本音乐团体Sound Horizon的演唱与合唱。随着“初音未来”声库的发售，这种成功的营销方式大幅改变了电子音乐人对于音乐业的认知和整个行业的格局。
-				<!-- 根據 https://www.bilibili.com/video/av13987759/?from=search&seid=12730409076591634284/  -->
+				<!-- 根據 https://www.bilibili.com/video/av13987759/  -->
 				<embed height="452" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="https://static-s.bilibili.com/miniloader.swf" flashvars="aid=6517184&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
 			</p>
 			<div class="MoneyShot">
