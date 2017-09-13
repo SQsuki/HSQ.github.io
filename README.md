@@ -57,3 +57,9 @@
 				<li>语言合成引擎的更新换代产品Vocaloid3在2011年9月正式发售，而相应的Pocaloid3也会在其后破解出。其构成仍为管理器（Manager）、主程序（System Standalone）、歌手音源库（Library） 共三个部分。 </li>
 			</ol>
 		</div>
+        <div class="MoneyShot">
+				<a href = "https://www.bilibili.com/video/av13987759/?from=search&seid=12730409076591634284">
+				<img class="MoneyShotImg" width="100%" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505303071930&di=034f948052587b1b5a5ee589b50f7a88&imgtype=0&src=http%3A%2F%2Fimg5.duitang.com%2Fuploads%2Fitem%2F201511%2F08%2F20151108144633_ke3ty.jpeg" alt="初音未来" />
+				<p class="ImageCaption"></p>
+				</a>
+			</div>
