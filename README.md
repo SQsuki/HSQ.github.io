@@ -12,9 +12,6 @@
 			<p class="Strap">初音未来可指代包装封面上的那位葱色头发的少女形象，还可指活跃在动画漫画中出现的“人气歌手”。</p>
 		<div class="IntroWrapper">
 			<p class="IntroText">语言合成引擎的更新换代产品Vocaloid3在2011年9月正式发售，而相应的Pocaloid3也会在其后破解出。其构成仍为管理器（Manager）、主程序（System Standalone）、歌手音源库（Library） 共三个部分。
-				<!-- 根據 https://www.bilibili.com/video/av13987759/?from=search&seid=15813584353080287124/  -->
-				<embed height="452" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-
-			</p>
 			<div class="MoneyShot">
 				<a href = "https://www.bilibili.com/video/av13987759/?from=search&seid=15813584353080287124">
 				<img class="MoneyShotImg" width="100%" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505298008325&di=d3e619a52307f62ff8caba6d1478b2be&imgtype=0&src=http%3A%2F%2Fimage.midifan.com%2Fdata%2Fattach%2Falbum%2F2014%2F0801%2F1474_1406824161.png" alt="初音未来" />
