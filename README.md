@@ -17,7 +17,7 @@
 				<embed height="452" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="https://static-s.bilibili.com/miniloader.swf" flashvars="aid=6517184&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
 			</p>
 			<div class="MoneyShot">
-				<a href = "http://www.un.org/sustainabledevelopment/zh/sdgadvocates/">
+				<a href = "https://www.bilibili.com/video/av13987759/?from=search&seid=12730409076591634284">
 				<img class="MoneyShotImg" width="100%" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505298008325&di=d3e619a52307f62ff8caba6d1478b2be&imgtype=0&src=http%3A%2F%2Fimage.midifan.com%2Fdata%2Fattach%2Falbum%2F2014%2F0801%2F1474_1406824161.png" alt="初音未来" />
 				<p class="ImageCaption">初音未来中文新歌《你好》</p>
 				</a>
