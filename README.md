@@ -12,13 +12,12 @@
 			<p class="Strap">初音未来可指代包装封面上的那位葱色头发的少女形象，还可指活跃在动画漫画中出现的“人气歌手”。</p>
 		<div class="IntroWrapper">
 			<p class="IntroText">初音未来（初音ミク/Hatsune Miku），是2007年8月31日由CRYPTON FUTURE MEDIA以Yamaha的VOCALOID系列语音合成程序为基础开发的音源库，音源数据资料采样于日本声优藤田咲。
-2010年4月30日，发布初音未来6种不同声调的版本“初音未来Append”。2013年8月31日，初音未来英文版本同VOCALOID3一并发行。[1]  此外，初音未来还担任日本音乐团体Sound Horizon的演唱与合唱。随着“初音未来”声库的发售，这种成功的营销方式大幅改变了电子音乐人对于音乐业的认知和整个行业的格局。
+2010年4月30日，发布初音未来6种不同声调的版本“初音未来Append”。2013年8月31日，初音未来英文版本同VOCALOID3一并发行。此外，初音未来还担任日本音乐团体Sound Horizon的演唱与合唱。随着“初音未来”声库的发售，这种成功的营销方式大幅改变了电子音乐人对于音乐业的认知和整个行业的格局。
 			<div class="MoneyShot">
 				<a href = "https://www.bilibili.com/video/av13987759/?from=search&seid=15813584353080287124">
 				<img class="MoneyShotImg" width="100%" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505298008325&di=d3e619a52307f62ff8caba6d1478b2be&imgtype=0&src=http%3A%2F%2Fimage.midifan.com%2Fdata%2Fattach%2Falbum%2F2014%2F0801%2F1474_1406824161.png" alt="初音未来" />
 				<p class="ImageCaption">此为初音未来新歌</p>
 				</a>
-			</div>
 		</div>
 		<p>初音未来</p>
 		<div class="Ingredients">
@@ -44,9 +43,7 @@
 				<li>操作系统：Windows XP/ Vista（Vista时推荐单机使用）/更高版本</li>
 				<li>RAM：512MB以上（推荐1GB以上，使用Real-time VOCALOID2 VST instrument时推荐2GB以上）</li>
 				<li>其他：2GB的硬盘容量（软件的实际容量约809MB）</li>
-				<li另有POCALOID，也是一款电子音乐制作语音合成软件，是vocaloid2的破解版本，其包含的所有Vocaloid2中的角色由来自11区的peace-out小组rip出来，可以进行单独安装。这款软件是人声合成技术的软件革命，但是其装置和系统还远未完善。</li>
-				<li>语言合成引擎的更新换代产品Vocaloid3在2011年9月正式发售，而相应的Pocaloid3也会在其后破解出。其构成仍为管理器（Manager）、主程序（System Standalone）、歌手音源库（Library） 共三个部分。[2]  </li>
+				<li>另有POCALOID，也是一款电子音乐制作语音合成软件，是vocaloid2的破解版本，其包含的所有Vocaloid2中的角色由来自11区的peace-out小组rip出来，可以进行单独安装。这款软件是人声合成技术的软件革命，但是其装置和系统还远未完善。</li>
+				<li>语言合成引擎的更新换代产品Vocaloid3在2011年9月正式发售，而相应的Pocaloid3也会在其后破解出。其构成仍为管理器（Manager）、主程序（System Standalone）、歌手音源库（Library） 共三个部分。 </li>
 			</ol>
 		</div>
-	</body>
-</html>
