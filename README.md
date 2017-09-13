@@ -14,7 +14,7 @@
 			<p class="IntroText">初音未来（初音ミク/Hatsune Miku），是2007年8月31日由CRYPTON FUTURE MEDIA以Yamaha的VOCALOID系列语音合成程序为基础开发的音源库，音源数据资料采样于日本声优藤田咲。
 2010年4月30日，发布初音未来6种不同声调的版本“初音未来Append”。2013年8月31日，初音未来英文版本同VOCALOID3一并发行。此外，初音未来还担任日本音乐团体Sound Horizon的演唱与合唱。随着“初音未来”声库的发售，这种成功的营销方式大幅改变了电子音乐人对于音乐业的认知和整个行业的格局。
 				<!-- 根據 https://www.bilibili.com/video/av13987759/  -->
-				<embed height="452" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="https://static-s.bilibili.com/miniloader.swf" flashvars="aid=6517184&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
+				<embed height="452" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="https://static-s.bilibili.com/miniloader.swf" flashvars="aid=6517184&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">
 			</p>
 			<div class="MoneyShot">
 				<a href = "https://www.bilibili.com/video/av13987759/?from=search&seid=12730409076591634284">
@@ -42,7 +42,7 @@
 	<div class="MoneyShot">
 				<a href = "https://www.bilibili.com/video/av13987759/?from=search&seid=12730409076591634284">
 				<img class="MoneyShotImg" width="100%" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505302194482&di=d05f909e7312695155f97ce48b36a218&imgtype=0&src=http%3A%2F%2Fimg3.duitang.com%2Fuploads%2Fitem%2F201609%2F09%2F20160909201833_ZGuKV.jpeg" alt="初音未来" />
-				<p class="ImageCaption">初音未来中文新歌《你好》</p>
+				<p class="ImageCaption"></p>
 				</a>
 			</div>
 		</div>
