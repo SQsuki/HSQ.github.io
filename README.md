@@ -3,7 +3,7 @@
 <html class="no-js" lang="zh-CN">
 	<head>
 		<meta charset="utf-8">
-		<title>世界第一的公主殿下</title>
+		世界第一的公主殿下
 		<meta name="description" content="以Yamaha的VOCALOID系列语音合成程序为基础开发的音源库">
 		<meta name="viewport" content="width=device-width">
 		<link rel="stylesheet" href="css/styles.css">
