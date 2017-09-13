@@ -9,8 +9,6 @@
 		<link rel="stylesheet" href="css/styles.css">
 	</head>
 	<body>
-		<div class="Header">
-			<a href="/" class="LogoWrapper"><img src="https://www.bilibili.com/video/av13987759/?from=search&seid=15813584353080287124/" alt="UNSDG_Logo_2015_CH" /></a>
 			<p class="Strap">在衍生文化现象后，初音未来可指代包装封面上的那位葱色头发的少女形象，还可指活跃在动画漫画中出现的“人气歌手”。</p>
 		</div>
 		<div class="IntroWrapper">
