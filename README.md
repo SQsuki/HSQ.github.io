@@ -1,4 +1,4 @@
-# SQsuki.github.io
+# 初音未来
 <!-- 根據 https://baike.baidu.com/item/初音未来/8231955?fr=aladdin  -->
 <html class="no-js" lang="zh-CN">
 	<head>
@@ -11,7 +11,8 @@
 	<body>
 			<p class="Strap">初音未来可指代包装封面上的那位葱色头发的少女形象，还可指活跃在动画漫画中出现的“人气歌手”。</p>
 		<div class="IntroWrapper">
-			<p class="IntroText">语言合成引擎的更新换代产品Vocaloid3在2011年9月正式发售，而相应的Pocaloid3也会在其后破解出。其构成仍为管理器（Manager）、主程序（System Standalone）、歌手音源库（Library） 共三个部分。
+			<p class="IntroText">初音未来（初音ミク/Hatsune Miku），是2007年8月31日由CRYPTON FUTURE MEDIA以Yamaha的VOCALOID系列语音合成程序为基础开发的音源库，音源数据资料采样于日本声优藤田咲。
+2010年4月30日，发布初音未来6种不同声调的版本“初音未来Append”。2013年8月31日，初音未来英文版本同VOCALOID3一并发行。[1]  此外，初音未来还担任日本音乐团体Sound Horizon的演唱与合唱。随着“初音未来”声库的发售，这种成功的营销方式大幅改变了电子音乐人对于音乐业的认知和整个行业的格局。
 			<div class="MoneyShot">
 				<a href = "https://www.bilibili.com/video/av13987759/?from=search&seid=15813584353080287124">
 				<img class="MoneyShotImg" width="100%" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505298008325&di=d3e619a52307f62ff8caba6d1478b2be&imgtype=0&src=http%3A%2F%2Fimage.midifan.com%2Fdata%2Fattach%2Falbum%2F2014%2F0801%2F1474_1406824161.png" alt="初音未来" />
